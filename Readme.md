@@ -1,3 +1,3 @@
 Hello Git
 
-Git is awesome
+Git is awesome!!
